@@ -1,7 +1,5 @@
 # Vinzent
 
-![](https://github.com/Vinzent03/Vinzent03/blob/master/generated/overview.svg)
-![](https://github.com/Vinzent03/Vinzent03/blob/master/generated/languages.svg)
 
 Hey, I'm a student from Germany building apps with [Flutter](https://flutter.dev/) and plugins for [Obsidian](https://obsidian.md).
 
